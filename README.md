@@ -19,7 +19,6 @@ Avanade-->Conhecimento: Empoderamento feminino.
 
 ### Comandos utilizados no Git
 
-- [x] ls
 - [x] cd
 - [x] mkdir
 - [x] git init
